@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+python-docx
+azure-search-documents
+azure-core
+openai
+pydantic
